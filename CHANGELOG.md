@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/therealparmesh/fauxios/compare/v0.0.1...v0.0.2) (2020-04-21)
+
+### Bug Fixes
+
+- broken types ([54c2ea1](https://github.com/therealparmesh/fauxios/commit/54c2ea1c7364d7ad4f2db44398612495beb4beb7))
+
 ### 0.0.1 (2020-04-01)
 
 ### Features
