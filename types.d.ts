@@ -1,3 +1,1 @@
-declare function fauxios(url: any, customCfg?: any): Promise<any>;
-
-export = fauxios;
+export function fauxios(url: any, customCfg?: any): Promise<any>;
